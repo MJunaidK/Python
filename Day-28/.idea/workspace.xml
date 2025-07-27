@@ -1,19 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="728df3cb-d6e2-44f3-b123-ed519ef94cc3" name="Changes" comment="" />
+    <list default="true" id="c58b7df0-7b8c-4a9e-bbad-078ca13581df" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
-  </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 3
-}</component>
-  <component name="ProjectId" id="3068ue3zoukKpzihdbpCsmrsl8N" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="30QDg9DvLNbpM5yUfonY0bXK2cO" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -22,9 +19,7 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/Junaid/PycharmProjects/Day-21"
+    "RunOnceActivity.git.unshallow": "true"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -36,11 +31,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="728df3cb-d6e2-44f3-b123-ed519ef94cc3" name="Changes" comment="" />
-      <created>1752936885335</created>
+      <changelist id="c58b7df0-7b8c-4a9e-bbad-078ca13581df" name="Changes" comment="" />
+      <created>1753551011754</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1752936885335</updated>
+      <updated>1753551011754</updated>
     </task>
     <servers />
   </component>
