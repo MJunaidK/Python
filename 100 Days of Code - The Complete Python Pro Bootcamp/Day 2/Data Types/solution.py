@@ -16,3 +16,5 @@ print(3.14159)
 # Boolean
 print(True)
 print(False)
+
+a= 50+50

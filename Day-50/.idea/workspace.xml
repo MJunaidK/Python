@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="646dea09-ba74-4d0a-9132-6982f82a112e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../100 Days of Code - The Complete Python Pro Bootcamp/Day 2/Data Types/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/../100 Days of Code - The Complete Python Pro Bootcamp/Day 2/Data Types/solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day-21/Class_Inheritance.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Day-21/Class_Inheritance.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="326QZ8bywxVL7E5r6dIiySefI02" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-dfff61a61320-9cdd278e9d02-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-251.25410.159" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="646dea09-ba74-4d0a-9132-6982f82a112e" name="Changes" comment="" />
+      <created>1756738594816</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1756738594816</updated>
+    </task>
+    <servers />
+  </component>
+</project>
